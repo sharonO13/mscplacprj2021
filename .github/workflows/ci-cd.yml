@@ -50,8 +50,6 @@ jobs:
             git push
           fi
 	  
-
-
   codacy-security-scan:
     name: Codacy Security Scan
     runs-on: ubuntu-latest
