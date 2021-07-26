@@ -2,6 +2,7 @@
 /target/generated-sources
 /target/generated-test-sources
 /target/maven-status
+/target/jacoco0-ut
 /target/surefire-reports
 /target/test-classes
 /target/jacoco.exec
