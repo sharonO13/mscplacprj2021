@@ -24,7 +24,7 @@ jobs:
   build:
 
   #build and execute unit tests
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v2
