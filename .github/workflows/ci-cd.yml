@@ -21,6 +21,7 @@ on:
 
 jobs:
   build:
+    name: Maven Tests
     runs-on: ubuntu-latest
 
     steps:
