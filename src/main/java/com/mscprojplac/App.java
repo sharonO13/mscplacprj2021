@@ -10,6 +10,8 @@ public class App {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+
+		//execute pipeline
 		
 		Calculator calculation = new Calculator(10,20);
 		
